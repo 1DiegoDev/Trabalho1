@@ -1,0 +1,52 @@
+
+
+body{
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Amiri', serif;
+
+}
+
+li2{
+    display: block;
+    font-size: 150%;
+    text-align: center
+
+}
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }
+
+  .myDiv2 {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }
+
+  .myDiv3 {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }
+  ul {
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 700;
+    margin-right: 700;
+    padding-left: 40px;
+  }
+
+h1{
+    
+    font-family: Arial, Helvetica, sans-serif, serif;
+    color: black;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif, serif;
+    color: black;
+}
